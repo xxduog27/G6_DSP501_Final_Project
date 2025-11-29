@@ -86,5 +86,5 @@ def main():
     return AecApp("AEC App", "org.example.aec")
 
 
-if __name__ == "__main__":
+if __name__ == "main":
     main().main_loop()

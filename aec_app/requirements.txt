@@ -1,4 +1,4 @@
-toga
-pyaudio
-numpy
-pyaec
+toga-core==0.5.2
+toga-android==0.5.2
+numpy==1.26.2
+pyaec==0.1.0b1
